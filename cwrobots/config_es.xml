@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cwrobots</name>
+	<displayName><![CDATA[Robots NoIndex]]></displayName>
+	<version><![CDATA[2.1.3]]></version>
+	<description><![CDATA[Aplicar noindex a categorías, páginas ó productos]]></description>
+	<author><![CDATA[Andres Castellano https://www.linkedin.com/in/andrescastellano/]]></author>
+	<tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[seguro que quieres desinstalar?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
